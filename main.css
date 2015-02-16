@@ -12,6 +12,7 @@
   }
   p{
     color:#444444;
+    margin-bottom: 10px;
   }
   ol li{
     font-size: 20px;
@@ -22,6 +23,9 @@
   ul{
     padding-left: 30px;
   }
+  ol{
+    padding-left: 26px;
+  }
   h1{
     color:#000000;
     padding-bottom: 15px;
@@ -29,7 +33,7 @@
   h2{
     font-size: 28px;
     color:#000000;
-    padding-top: 15px;
+    margin-top: 15px;
    }
   h3{
     font-size: 26px;
@@ -41,4 +45,6 @@
   }
   h4{
     color:#666666;
+    margin-top:10px;
+    margin-bottom:10px;
   }
