@@ -85,3 +85,19 @@
     padding:10px 5px;
     margin-bottom: 5px;
   }
+  .bands-list a{
+    color:#ff2244;
+  }
+  .bands-list li{
+    border:1px solid #555555;
+  }
+  .bands-list h3{
+    border-bottom: 0;
+    margin:0;
+  }
+  ul.bands-list{
+    list-style-type:none;
+    padding-left:0;
+  }
+
+  
