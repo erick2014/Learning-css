@@ -72,3 +72,8 @@
     padding:15px;
     width:450px;
   }
+  .album {
+    border:2px dashed #bbbbbb;
+    padding:10px 5px;
+    margin-bottom: 5px;
+  }
