@@ -26,23 +26,20 @@
   ol{
     padding-left: 26px;
   }
+ 
   h1{
-    color:#000000;
-    padding-bottom: 15px;
-  }
-  h2{
     font-size: 28px;
     color:#000000;
     margin-top: 15px;
    }
-  h3{
+  h2{
     font-size: 26px;
     color:#333333;
     margin:20px 0 5px 0;
     border-bottom: 1px solid black;
     padding-bottom: 2px;
   }
-  h4{
+  h3{
     color:#666666;
     margin-top:10px;
     margin-bottom:10px;
