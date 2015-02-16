@@ -57,3 +57,11 @@
   ul.nav{
     padding:0;
   }
+  .day-time{
+    color:#444444;
+    margin-bottom: 3px;
+  }
+  .concert-location{
+    color:#888888;
+    margin-bottom:15px;
+  }
