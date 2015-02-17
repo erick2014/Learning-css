@@ -6,6 +6,7 @@
   body{
     padding:0px;
     background: #555555 url('images/bg-tile.png') top left repeat; 
+    font-family: Garamond,Serif;
   }
   a{
     text-decoration: none;
@@ -31,6 +32,7 @@
     font-size: 28px;
     color:#000000;
     margin: 15px 0 15px;
+    font-family: Verdana,sans-serif;
    }
   h2{
     font-size: 26px;
@@ -38,11 +40,13 @@
     margin:20px 0 5px 0;
     border-bottom: 1px solid black;
     padding-bottom: 2px;
+    font-family: Verdana,sans-serif;
   }
   h3{
     color:#666666;
     margin-top:10px;
     margin-bottom:10px;
+    font-family: Verdana,sans-serif;
   }
   .nav li{
     display:inline;
