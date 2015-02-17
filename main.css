@@ -94,10 +94,19 @@
   .bands-list li{
     border:1px solid #555555;
     background-color: #ffffff;
+    height:120px;
+  }
+  .bands-list h2{
+    border-bottom: 0;
   }
   .bands-list h3{
     border-bottom: 0;
     margin:0;
+  }
+  .bands-list img{
+    display:block;
+    float:left;
+    padding-right: 15px;
   }
   ul.bands-list{
     list-style-type:none;
