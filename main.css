@@ -88,6 +88,10 @@
     margin-bottom: 5px;
     background-color:#ffffff;
   }
+  .album img{
+    display:block;
+    float:right;
+  }
   .bands-list a{
     color:#ff2244;
   }
