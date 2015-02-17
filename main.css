@@ -18,12 +18,14 @@
   p{
     color:#444444;
     margin-bottom: 10px;
+    line-height:24px;
   }
   ol li{
     font-size: 20px;
   }
   li{
     margin-bottom: 5px;
+    line-height:22px;
   }
   ul{
     padding-left: 30px;
