@@ -2,6 +2,8 @@
     padding: 0;
     border: 0;
     margin: 0;
+    font:inherit;
+    font-size:100%;
   }
   body{
     padding:0px;
@@ -29,13 +31,11 @@
     padding-left: 26px;
   }
   h1{
-    font-size: 28px;
     color:#000000;
     margin: 15px 0 15px;
     font-family: Verdana,sans-serif;
    }
   h2{
-    font-size: 26px;
     color:#333333;
     margin:20px 0 5px 0;
     border-bottom: 1px solid black;
