@@ -110,7 +110,9 @@
   .recording-now{
     width:440px;
     height:200px;
-    background:#ffffff url('images/prependers-recording.jpg') top left no-repeat;
+    background:#ffffff url('images/prependers-recording.jpg') center center no-repeat;
+    border:1px solid #ee932a;
+    padding:4px;
   }
   .recording-now p{
     color:#ffffff;
